@@ -39,7 +39,7 @@ exports.handler = async (event) => {
         `Welcome ${firstName}!\n\n` +
         `I've received your request to join the channel.\n\n` +
         `Click the link below to join:\n` +
-        `https://t.me/+1rrzuPFJq2czYzYxk`;
+        `https://t.me/scarface_trades_channel`;
 
       await sendMessage(
         BOT_TOKEN,
